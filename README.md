@@ -85,7 +85,7 @@ You can run this project directly in Google Colab without installing anything:
 
 Open the Colab Notebook using this link:
 
-👉[** Open in Colab**] (https://colab.research.google.com/drive/1IkC9NmmiRSiQZPRWR3qR5YFerOSwYQMH?usp=sharing)
+👉[** Open in Colab**](https://colab.research.google.com/drive/1IkC9NmmiRSiQZPRWR3qR5YFerOSwYQMH?usp=sharing)
 
 Go to File → Save a copy in Drive to make your own editable copy.
 
